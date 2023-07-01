@@ -1,0 +1,69 @@
+
+Evaluating predictions/protbert-Tch_1_all_go_BPO.txt.
+
+AUTHOR: Tch
+
+MODEL: 1
+
+KEYWORDS: homolog
+
+Species:all
+
+ontology: bpo
+
+benchmark type:NK
+
+mode:partial
+
+fmax: 0.26406124274401904
+
+threshold giving fmax: 0.98
+
+coverage: 1.0
+
+mode:full
+
+fmax: 0.26406124274401904
+
+threshold giving fmax: 0.98
+
+coverage: 1.0
+
+benchmark type:LK
+
+mode:partial
+
+fmax: 0.3145956336279498
+
+threshold giving fmax: 0.5
+
+coverage: 1.0
+
+mode:full
+
+fmax: 0.3145956336279498
+
+threshold giving fmax: 0.5
+
+coverage: 1.0
+
+ontology: cco
+
+benchmark type:NK
+
+No prediction made in this ontology.
+
+benchmark type:LK
+
+No prediction made in this ontology.
+
+ontology: mfo
+
+benchmark type:NK
+
+No prediction made in this ontology.
+
+benchmark type:LK
+
+No prediction made in this ontology.
+

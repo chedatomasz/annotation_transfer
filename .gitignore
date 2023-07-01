@@ -1,0 +1,5 @@
+prepared_embeddings/*
+proteinbert_modeldir/*
+project/*
+goPredSim/project/*
+goa_2017.100.fasta

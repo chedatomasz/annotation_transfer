@@ -1,0 +1,6 @@
+assess:
+  benchmark: ./precrec/benchmark/CAFA3_benchmarks/
+  file: predictions/prott5-Tch_1_all_go_MFO.txt
+  obo: ./precrec/go_cafa3.obo
+  results: ./results
+plot: {}

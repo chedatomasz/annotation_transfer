@@ -1,0 +1,6 @@
+assess:
+  benchmark: ./precrec/benchmark/CAFA3_benchmarks/
+  file: predictions/seqvec-Tch_1_all_go_CCO.txt
+  obo: ./precrec/go_cafa3.obo
+  results: ./results
+plot: {}

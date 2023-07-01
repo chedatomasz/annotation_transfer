@@ -1,0 +1,77 @@
+
+Evaluating predictions/proteinbert-Tch_1_all_go_MFO.txt.
+
+AUTHOR: Tch
+
+MODEL: 1
+
+KEYWORDS: homolog
+
+Species:all
+
+ontology: bpo
+
+benchmark type:NK
+
+No prediction made in this ontology.
+
+benchmark type:LK
+
+No prediction made in this ontology.
+
+ontology: cco
+
+benchmark type:NK
+
+No prediction made in this ontology.
+
+benchmark type:LK
+
+No prediction made in this ontology.
+
+ontology: mfo
+
+benchmark type:NK
+
+mode:partial
+
+No prediction is made above the 0.96 threshold
+
+fmax: 0.5117442173920967
+
+threshold giving fmax: 0.04
+
+coverage: 1.0
+
+mode:full
+
+No prediction is made above the 0.96 threshold
+
+fmax: 0.5117442173920967
+
+threshold giving fmax: 0.04
+
+coverage: 1.0
+
+benchmark type:LK
+
+mode:partial
+
+No prediction is made above the 0.96 threshold
+
+fmax: 0.45195701580943526
+
+threshold giving fmax: 0.05
+
+coverage: 1.0
+
+mode:full
+
+No prediction is made above the 0.96 threshold
+
+fmax: 0.45195701580943526
+
+threshold giving fmax: 0.05
+
+coverage: 1.0
+

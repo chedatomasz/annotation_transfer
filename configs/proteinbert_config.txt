@@ -1,0 +1,8 @@
+go: data/GO/go_cafa3.obo
+lookup_set: project/proteinbert.train.pkl
+annotations: project_annotations.txt
+targets: project/proteinbert.test.pkl
+onto: all
+thresh: 1
+modus: num
+output: results/proteinbert

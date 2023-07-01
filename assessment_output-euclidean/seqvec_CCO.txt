@@ -1,0 +1,69 @@
+
+Evaluating predictions/seqvec-Tch_1_all_go_CCO.txt.
+
+AUTHOR: Tch
+
+MODEL: 1
+
+KEYWORDS: homolog
+
+Species:all
+
+ontology: bpo
+
+benchmark type:NK
+
+No prediction made in this ontology.
+
+benchmark type:LK
+
+No prediction made in this ontology.
+
+ontology: cco
+
+benchmark type:NK
+
+mode:partial
+
+fmax: 0.5611140121392842
+
+threshold giving fmax: 0.25
+
+coverage: 1.0
+
+mode:full
+
+fmax: 0.5611140121392842
+
+threshold giving fmax: 0.25
+
+coverage: 1.0
+
+benchmark type:LK
+
+mode:partial
+
+fmax: 0.540298933471445
+
+threshold giving fmax: 0.29
+
+coverage: 1.0
+
+mode:full
+
+fmax: 0.540298933471445
+
+threshold giving fmax: 0.29
+
+coverage: 1.0
+
+ontology: mfo
+
+benchmark type:NK
+
+No prediction made in this ontology.
+
+benchmark type:LK
+
+No prediction made in this ontology.
+
